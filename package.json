@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon"
+    "dev": "nodemon"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "node": "^14.7.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "vash": "^0.13.0"
   }
 }
